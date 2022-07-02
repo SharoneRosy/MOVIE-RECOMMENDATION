@@ -1,2 +1,3 @@
-# MOVIE-RECOMMENDATION
-I Devolped this website using python  streamlit. Its build one svm algorithm .
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
+# MOVIE-RECOMMENDATATION
